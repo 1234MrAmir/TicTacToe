@@ -78,4 +78,5 @@ transition: width 1s ease-in-out;
   display: flex;justify-content: center;align-items: center;font-size: 22px;box-shadow: 2px 1px 3px 3px #6d6666;}
 @media screen and (max-width:991px) {
   .main-right-box .right-box .box .boxTest{font-size: 2rem;}
+  
 }
